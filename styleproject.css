@@ -159,7 +159,7 @@ body, html {
 
   .animated-background {
     width: 100%;
-    height: 400%;
+    height: 800%;
     /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
     
     background: linear-gradient(-45deg, #da1075 , #7c61f5 , #00c0ce,#98f0ae,#6ae606,#dab510);
