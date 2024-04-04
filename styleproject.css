@@ -79,13 +79,13 @@ top: 90px;
 .imgDiv:hover .overlay{
     height: 100%;
 }
-/* @media screen and (max-width:400px) {
+ @media screen and (max-width:400px) {
     #one
     {
         width:200px;
         
     }
-} */
+} 
 h2{
     margin: 12px 50px;
     font-size: medium;
